@@ -22,3 +22,59 @@
     color: black;
 }
 
+.firsth2 {
+    justify-content: center;
+    text-align: center;
+    font-size: 35px;
+    color: #ddd;
+    position: relative;
+    background-color: #333;
+    width: 100px;
+    top: 250px;
+    left: 374px;
+}
+
+.sech2 {
+    justify-content: center;
+    text-align: center;
+    font-size: 35px;
+    color: #ddd;
+    position: relative;
+    background-color: #333;
+    width: 160px;
+    top: 250px;
+    left: 430px;
+}
+
+.third {
+    justify-content: center;
+    text-align: center;
+    font-size: 35px;
+    color: #ddd;
+    position: relative;
+    background-color: #333;
+    width: 330px;
+    top:250px;
+    left: 470px;
+}
+
+#textbox1 {
+    height: 350px;
+    width: 450px;
+    background-color: #333;
+    margin-left: 350px;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+#textbox2 {
+    height: 350px;
+    width: 450px;
+    background-color: #333;
+    margin-left: 805px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 178px;
+}
